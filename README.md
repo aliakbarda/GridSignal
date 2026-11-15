@@ -255,7 +255,7 @@ Instructions describe the Windows PowerShell workflow.
 ### 1. Clone
 
 ```powershell
-git clone https://github.com/aliakbarse/GridSignal.git
+git clone https://github.com/aliakbarda/GridSignal.git
 cd GridSignal
 ```
 
